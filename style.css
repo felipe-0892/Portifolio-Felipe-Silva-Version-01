@@ -1,0 +1,89 @@
+.contact-title {
+    color: #DD9E55 !important;
+}
+.social-icons a {
+    transition: transform 0.3s ease;
+}
+.social-icons a:hover {
+    transform: scale(1.1);
+}
+
+.section-title {
+    color: #DD9E55 !important;
+}
+.divider {
+    height: 6px;
+    background-color: #212529;
+}
+
+.hero-section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: #f8f9fa;
+}
+
+.highlight {
+    color: #007bff;
+}
+
+.social-icons .icon-link {
+    color: #333;
+    transition: transform 0.3s ease;
+}
+
+.social-icons .icon-link:hover {
+    transform: scale(1.1);
+}
+
+.profile-picture {
+    max-width: 100%;
+    max-height: 500px;
+    object-fit: contain;
+}
+
+#btn-header {
+    background-color: #DD9E55 !important;
+    border: none;
+}
+
+#btn-header:hover {
+    background-color: #ffffff !important;
+    color: #DD9E55 !important;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+
+#btnVoltarTopo {
+    display: none; /* Botão oculto inicialmente */
+    position: fixed; /* Fixado no canto */
+    bottom: 20px; /* Distância do rodapé */
+    right: 20px; /* Distância da lateral */
+    z-index: 1000; /* Prioridade sobre outros elementos */
+}
+
+/*Responsividade*/
+
+@media (max-width: 768px) {
+    .hero-section {
+        text-align: center;
+    }
+
+    .social-icons {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-nav {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .navbar-nav .nav-item {
+        margin-bottom: 10px;
+    }
+}
+
+
