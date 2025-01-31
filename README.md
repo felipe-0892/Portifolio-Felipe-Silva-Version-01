@@ -3,7 +3,7 @@
 
 ## <a href="https://portifolio-felipe-silva-three.vercel.app/" target="_blank">Ir para o portifolio</a> 
 ## Preview
-![Exemplo de Formulário de Login](image-preview.png)
+![Exemplo de Formulário de Login](image.png)
 
 # Introdução
 
