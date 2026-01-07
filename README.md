@@ -31,7 +31,7 @@ O meu portfólio foi desenvolvido para apresentar minhas habilidades, experiênc
   - <a href="#" target="_blank"><img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a> Para interatividade, como validação de formulários e buscas dinâmicas.
   
 - **Backend**:
-  - <a href="#" target="_blank"><img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a> Utilizado para processar as requisições, gerenciar a lógica de negócio e interagir com o banco de dados. 
+  - <a href="#" target="_blank"><img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a> Utilizado para processar as requisições, gerenciar a lógica de negócio e interagir com o banco de dados. (EM PRODUÇÃO) 
 
 - **Hospedagem**:
   - <a href="#" target="_blank"><img align="center" alt="PHP" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a> Utilizado para hospedar o site e as funcionalidades do site / landing page do portifolio
